@@ -31,7 +31,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 3. Asegúrate de tener las dependencias necesarias en tu archivo build.gradle.
 4. Ejecuta la aplicación en un emulador o dispositivo físico.
    
-🤝 Contribuciones
+## 🤝 Contribuciones
 Si deseas contribuir a Shoes Tap, sigue estos pasos:
 
 1.  Haz un fork del repositorio.
