@@ -27,9 +27,10 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
    ```bash
    git clone https://github.com/Danny3431/Sprint_M5Kotlin
    cd Sprint_M5Kotlin
-Abre el proyecto en Android Studio.
-Asegúrate de tener las dependencias necesarias en tu archivo build.gradle.
-Ejecuta la aplicación en un emulador o dispositivo físico.
+2. Abre el proyecto en Android Studio.
+3. Asegúrate de tener las dependencias necesarias en tu archivo build.gradle.
+4. Ejecuta la aplicación en un emulador o dispositivo físico.
+   
 🤝 Contribuciones
 Si deseas contribuir a Shoes Tap, sigue estos pasos:
 
